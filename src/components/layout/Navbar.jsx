@@ -40,8 +40,8 @@ const Navbar = () => {
           <Link to="/" className="flex items-center gap-2 z-[110]">
             {/* <ShoppingBag className={`w-8 h-8 ${isOpen && !isDarkNav ? 'text-white' : ''}`} /> */}
             <img
-              src="/mathewgarment.png"
-              className="w-8 h-8"
+              src="/mathew_garments_logo.png"
+              className="w-16 h-10"
               alt="mathew garments"
             />
             <span

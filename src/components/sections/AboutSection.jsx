@@ -64,7 +64,7 @@ const AboutSection = () => {
           >
             <div className="aspect-[4/5] md:aspect-square lg:aspect-[3/4] overflow-hidden bg-gray-100 relative shadow-2xl">
               <img
-                src="/images/about.png"
+                src="https://scontent.fmaa15-1.fna.fbcdn.net/v/t39.30808-6/476222556_937750341831963_8603286514159999603_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=2a1932&_nc_ohc=CvqeRzV4LcEQ7kNvwECJrZw&_nc_oc=Adq_nbxhlLKWdR4Vx9X0DZoAKlNgqZgIY2_WJAk2pDoWA7JVfIhWwFHl3Qyeo2cllkM&_nc_zt=23&_nc_ht=scontent.fmaa15-1.fna&_nc_gid=Yxp3Ih5E-O6ouuoFWwaWAA&_nc_ss=7a389&oh=00_Afz9wRErAoryq51QzWhiPU8VBINsYtTl6z0uSDgGOuTSFw&oe=69D045BD"
                 alt="Mathew Garments Premium Showroom Interior"
                 className="object-cover w-full h-full object-center group-hover:scale-105 transition-transform duration-700"
                 loading="lazy"
